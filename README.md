@@ -4,7 +4,7 @@
 Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digitais incríveis. Minha jornada na tecnologia me levou a dominar diversas ferramentas e tecnologias, incluindo JavaScript, Node.js, Prisma, Jest e React. Não pretendo parar por aí, pois estou constantemente buscando aprender mais, atualmente explorando Python e C#.
 
 ## Habilidades Técnicas
-<img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="40" height="20">
+<img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="40" height="30">
 
 
 ## Experiência Profissional
