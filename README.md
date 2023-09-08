@@ -5,6 +5,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 
 ## Habilidades Técnicas
 ![Ícone do GitHub](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white)
+<img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="100" height="100">
 
 
 ## Experiência Profissional
