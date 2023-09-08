@@ -9,19 +9,20 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 ## Experiência Profissional
 
 - Projetos Driven - Desenvolvedor full stack (Out/2022 - Ago/2023)
+
   - Liderança na concepção e implementação de projetos completos, abordando desde a arquitetura de frontend até o design do banco de dados, com foco em JavaScript, Node.js, React e SQL.
 
-Projetos:
+  - Projetos
 
-Contribuição significativa para o desenvolvimento do projeto DrivenT, revolucionando a organização de eventos e otimizando a busca por acomodações próximas, resultando em uma experiência aprimorada para os clientes e aumento na satisfação em eventos corporativos.
+     - Contribuição significativa para o desenvolvimento do projeto DrivenT, revolucionando a organização de eventos e otimizando a busca por acomodações próximas, resultando em uma experiência aprimorada para os clientes e aumento na satisfação em eventos corporativos.
 
-Exercício proativo de habilidades de resolução de conflitos e colaboração, trabalhando lado a lado com a equipe de design para garantir a integração perfeita entre a interface do usuário e a lógica do aplicativo.
+     - Exercício proativo de habilidades de resolução de conflitos e colaboração, trabalhando lado a lado com a equipe de design para garantir a integração perfeita entre a interface do usuário e a lógica do aplicativo.
 
-Criação do aplicativo CineFlex, responsável por revolucionar a experiência dos clientes na seleção de poltronas, pagamento e organização de sessões de cinema.
+     - Criação do aplicativo CineFlex, responsável por revolucionar a experiência dos clientes na seleção de poltronas, pagamento e organização de sessões de cinema.
 
-Habilidade de gerenciamento do tempo e atenção aos detalhes evidentes no cumprimento de prazos apertados e na criação de um sistema de reserva de ingressos sem falhas.
+     - Habilidade de gerenciamento do tempo e atenção aos detalhes evidentes no cumprimento de prazos apertados e na criação de um sistema de reserva de ingressos sem falhas.
 
-Demonstrações consistentes de liderança de pensamento, identificando tendências emergentes na indústria e integrando-as com sucesso nas operações do CineFlex.
+     - Demonstrações consistentes de liderança de pensamento, identificando tendências emergentes na indústria e integrando-as com sucesso nas operações do CineFlex.
 
 ## Projetos Destacados
 
