@@ -1,3 +1,4 @@
+![Ícone do GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
 ## Sobre Mim
 
 Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digitais incríveis. Minha jornada na tecnologia me levou a dominar diversas ferramentas e tecnologias, incluindo JavaScript, Node.js, Prisma, Jest e React. Não pretendo parar por aí, pois estou constantemente buscando aprender mais, atualmente explorando Python e C#.
