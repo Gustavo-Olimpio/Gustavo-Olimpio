@@ -5,6 +5,11 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 
 ## Habilidades Técnicas
 <img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--61DAFB?logo=react&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white" width="40" height="30">
 
 
 ## Experiência Profissional
