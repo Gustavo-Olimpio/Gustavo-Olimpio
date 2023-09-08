@@ -4,6 +4,9 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 
 ## Habilidades Técnicas
 :javascript:
+:heavy_plus_sign: JavaScript
+<i class="fab fa-js"></i> JavaScript
+<img src="url-do-seu-icone" width="20" height="20" alt="JavaScript">
 
 
 ## Experiência Profissional
