@@ -42,15 +42,15 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 
 - **DrivenPass**
   - [DrivenPass](https://github.com/Gustavo-Olimpio/projeto11-trackit)
-  - Breve descrição: Projeto cuja funcionalidade é ser um armazenador de senhas seguras para o usuário.
+  - Este é o DrivenPass, uma plataforma projetada para garantir a segurança de suas senhas. Com ele, você pode armazenar suas senhas de forma segura e acessá-las com facilidade quando necessário.
 
 - **SocialPostify**
   - [SocialPostify](https://github.com/Gustavo-Olimpio/projeto22-social-postify)
-  - Breve descrição: Projeto cuja função é agendar posts em redes sociais com o conteúdo mandado pelo usuário.
+  - Apresentando o SocialPostify, uma ferramenta de agendamento de posts em redes sociais. Com o SocialPostify, você pode programar e gerenciar facilmente o conteúdo que deseja compartilhar em suas redes sociais, oferecendo conveniência e eficiência.
 
 - **TrackIt**
   - [TrackIt](https://github.com/Gustavo-Olimpio/projeto23-drivenpass-nest)
-  - Breve descrição: Projeto cuja função é salvar e monitorar os hábitos do usuário para que o mesmo possa ter o controle sobre eles.
+  - O TrackIt é um projeto projetado para ajudá-lo a entender e melhorar seus hábitos. Ele permite que você salve e monitore suas atividades diárias, fornecendo informações valiosas para que você possa ter maior controle sobre seus comportamentos e metas pessoais.
 
 ## Contato
 
