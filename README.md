@@ -9,14 +9,21 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 <img src="https://img.shields.io/badge/--61DAFB?logo=react&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--339933?logo=nodedotjs&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--4169E1?logo=postgresql&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--2D3748?logo=prismat&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--2D3748?logo=prisma&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--47A248?logo=mongodb&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--3776AB?logo=python&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--239120?logo=csharp&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--47A248?logo=mongodb&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--47A248?logo=mongodb&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--47A248?logo=mongodb&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--47A248?logo=mongodb&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--E0234E?logo=nestjs&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
 </p>
 
 
