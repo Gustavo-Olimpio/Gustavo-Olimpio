@@ -25,6 +25,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 <img src="https://img.shields.io/badge/-StyledComponent-DB7093?logo=styledcomponents&logoColor=white" width="120" height="30">
 <img src="https://img.shields.io/badge/-ReactRouter-CA4245?logo=reactrouter&logoColor=white" width="100" height="30">
 <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white" width="80" height="30">
+<img src="https://img.shields.io/badge/-.ENV-000000?logo=dotenv&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=white" width="80" height="30">
 
