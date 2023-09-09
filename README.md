@@ -1,5 +1,5 @@
 
-## Sobre Mim
+## Minha Jornada Tecnológica
 
 Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digitais incríveis. Minha jornada na tecnologia me levou a dominar diversas ferramentas e tecnologias, incluindo JavaScript, Node.js, Prisma, Jest e React. Não pretendo parar por aí, pois estou constantemente buscando aprender mais, atualmente explorando Python e C#.
 
