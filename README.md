@@ -5,7 +5,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 
 ## Habilidades Técnicas
 <p>
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white"  alt="JavaScript" width="40" height="30">
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white"  alt="JavaScript" width="60" height="50">
 <img src="https://img.shields.io/badge/--61DAFB?logo=react&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--339933?logo=nodedotjs&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--4169E1?logo=postgresql&logoColor=white" width="40" height="30">
