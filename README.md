@@ -17,13 +17,16 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 <img src="https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--E0234E?logo=nestjs&logoColor=white" width="40" height="30">
 <img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
-<img src="https://img.shields.io/badge/--C21325?logo=jest&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--000000?logo=express&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--4479A1?logo=mysql&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--DC382D?logo=redis&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--DB7093?logo=styledcomponents&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--5A29E4?logo=axios&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--FCC624?logo=linux&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--CA4245?logo=reactrouter&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--000000?logo=jsonwebtokens&logoColor=white" width="40" height="30">
+<img src="https://img.shields.io/badge/--000000?logo=json&logoColor=white" width="40" height="30">
 </p>
 
 
