@@ -42,7 +42,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 ## Projetos Destacados
 
 - **DrivenPass**
-  - [DrivenPass](https://github.com/Gustavo-Olimpio/projeto11-trackit)
+  - [DrivenPass](https://github.com/Gustavo-Olimpio/projeto23-drivenpass-nest)
   - Este é o DrivenPass, uma plataforma projetada para garantir a segurança de suas senhas. Com ele, você pode armazenar suas senhas de forma segura e acessá-las com facilidade quando necessário.
 
 - **SocialPostify**
@@ -50,7 +50,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
   - Apresentando o SocialPostify, uma ferramenta de agendamento de posts em redes sociais. Com o SocialPostify, você pode programar e gerenciar facilmente o conteúdo que deseja compartilhar em suas redes sociais, oferecendo conveniência e eficiência.
 
 - **TrackIt**
-  - [TrackIt](https://github.com/Gustavo-Olimpio/projeto23-drivenpass-nest)
+  - [TrackIt](https://github.com/Gustavo-Olimpio/projeto11-trackit)
   - O TrackIt é um projeto projetado para ajudá-lo a entender e melhorar seus hábitos. Ele permite que você salve e monitore suas atividades diárias, fornecendo informações valiosas para que você possa ter maior controle sobre seus comportamentos e metas pessoais.
 
 ## Contato
