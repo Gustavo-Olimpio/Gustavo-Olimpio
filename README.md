@@ -36,7 +36,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 
 - Projetos Driven - Desenvolvedor full stack (Out/2022 - Ago/2023)
 
-  - Liderança na concepção e implementação de projetos completos, abordando desde a arquitetura de frontend até o design do banco de dados, com foco em JavaScript, Node.js, React e SQL.
+  - Durante minha passagem na equipe da Driven, assumi um papel de liderança na concepção e execução de projetos. Minha responsabilidade abrangeu todos os aspectos, desde a arquitetura do frontend até o design do banco de dados, com destaque para tecnologias essenciais como JavaScript, Node.js, React e SQL. Minha abordagem focada na entrega de soluções completas e eficazes garantiu o sucesso desses projetos e agregou valor significativo à organização.
 
 ## Projetos Destacados
 
