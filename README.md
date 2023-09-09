@@ -12,7 +12,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/-C#-239120?logo=csharp&logoColor=white" width="80" height="30">
+<img src="https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Nest-E0234E?logo=nestjs&logoColor=white" width="80" height="30">
