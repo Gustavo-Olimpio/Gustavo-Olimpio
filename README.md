@@ -42,7 +42,7 @@ Olá, sou um desenvolvedor web full stack apaixonado por criar soluções digita
 ## Projetos Destacados
 
 - **DrivenPass**
-  - [DrivenPass](https://projeto23-drivenpass.onrender.com/api)
+  - [DrivenPass](https://github.com/Gustavo-Olimpio/DrivenPass)
   - Este é o DrivenPass, uma plataforma projetada para garantir a segurança de suas senhas. Com ele, você pode armazenar suas senhas de forma segura e acessá-las com facilidade quando necessário.
 
 - **SocialPostify**
